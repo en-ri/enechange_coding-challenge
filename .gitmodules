@@ -1,0 +1,3 @@
+[submodule "serverside_challenge_1/challenges/enechange_coding-challenge"]
+	path = serverside_challenge_1/challenges/enechange_coding-challenge
+	url = https://github.com/en-ri/electricity_rate_simulation.git
